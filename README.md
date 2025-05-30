@@ -101,7 +101,7 @@ def vote(request, question_id):
 
 
 ## COURSERA GRADE
-![Screenshot 2025-05-29 220953](https://github.com/user-attachments/assets/92c7e014-c3c7-4e00-9859-6652c3f09e68)
+![Screenshot 2025-05-30 131745](https://github.com/user-attachments/assets/4b6c80d9-9e7c-48d4-b22b-49c8c223907c)
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
